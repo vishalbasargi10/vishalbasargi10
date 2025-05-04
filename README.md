@@ -9,9 +9,9 @@ I'm a passionate **Web Developer** and **DevOps enthusiast** who loves building 
 ## 🛠️ Tech Stack
 
 - **Languages**: JavaScript, Java, C++
-- **Frontend**: React, HTML, CSS
+- **Frontend**: React, HTML, CSS, TailwindCSS
 - **Backend**: Node.js, Express
-- **Database**: MongoDB
+- **Database**: MongoDB, SQL 
 - **DevOps & Tools**: Docker, Linux, GitHub Actions, AWS
 
 ---
